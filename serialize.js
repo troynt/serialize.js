@@ -1,6 +1,5 @@
  /**
    * @method serialize
-   * @private
    * @param {Object} obj the object to be serialized.
    */
   function serialize(obj, prefix) {
